@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Cicek</h1>
 <h3 align="center">I am a computer engineer. I am from Turkey. I live in Istanbul. A person who likes to code. Although I am mainly a backend developer, I am on my way to becoming a full stack web developer. I am a software engineer at VBT Yazılım A.Ş.</h3>
 
-- 🔭 I’m currently working on **VizyonIK**
+- 🔭 I’m currently working on **VizyonIK,a human resources project.**
 
 - 🌱 I’m currently learning **Spring, Spring boot, Spring Mvc , Angular , Redis , RabbitMQ , Microservices**
 
