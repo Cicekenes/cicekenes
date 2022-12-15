@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **VizyonIK,a human resources project.**
 
-- 🌱 I’m currently learning **Spring, Spring boot, Spring Mvc , Angular , Redis , RabbitMQ , Microservices**
+- 🌱 I’m currently learning **Angular , Redis , RabbitMQ , Microservices**
 
 - 📫 How to reach me **bmenescicek@hotmail.com**
 
