@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enes Cicek</h1>
-<h3 align="center">I am a computer engineer. I am from Turkey. I live in Istanbul. A person who likes to code. Although I am mainly a backend developer, I am on my way to becoming a full stack web developer. I am a software engineer at Meet2Talk Online</h3>
+<h3 align="center">I am a computer engineer. I am from Turkey. I live in Istanbul. A person who likes to code. Although I am mainly a backend developer, I am on my way to becoming a full stack web developer. I am a software engineer at CondoLife | Property Management Platform & Services</h3>
 
 - 🔭 I’m currently working on **Meet2Talk Online V2 WebSite**
 
